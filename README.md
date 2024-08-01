@@ -5,4 +5,4 @@ Feature Extraction :
 2. LBP
 
 Algorythm :
-Forest
+Random Forest
